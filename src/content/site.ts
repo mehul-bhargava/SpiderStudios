@@ -15,7 +15,7 @@ export const site = {
   // Drop a PDF into /public and set this to e.g. "/Mehul_Bhargava_Resume.pdf" to show the download button.
   resumeUrl: null as string | null,
   responseTime: "Usually replies within 24 hours",
-  url: "https://spiderstudios.example", // TODO: replace with the real domain
+  url: "https://spiderstudios.vercel.app", // TODO: replace with the real domain
   summary:
     "Creative graphic designer, video editor and YouTube gaming content creator with a strong foundation in visual storytelling and branding. Skilled in social media design, short-form video editing, thumbnail design and gaming content creation.",
 };
