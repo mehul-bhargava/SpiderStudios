@@ -6,6 +6,3 @@ next-env.d.ts
 .env*.local
 media-src
 .vercel
-
-# personal source docs (not used by the site)
-*.docx
